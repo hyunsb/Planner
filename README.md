@@ -1,10 +1,10 @@
-#학습 플래너
+# 학습 플래너
 
-#main page
+# main page
  -유저 info 확인
  -전체 plan info 확인
  
-#Plan page
+# Plan page
  -plan 세부 내용 확인
  -plan create, read, update, delete
 
